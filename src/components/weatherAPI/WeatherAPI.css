@@ -1,0 +1,34 @@
+input {
+    margin: 5px;
+}
+
+button {
+    background-color: #1c5ed0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    padding: 5px 20px;
+    margin: 2px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0.1px gray solid;
+    width: 40%;
+    margin: 1% auto;
+}
+
+p {
+    border: 0.1px gray solid;
+    width: 40%;
+    margin: 1% auto;
+    padding: 10px 0;
+}
